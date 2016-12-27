@@ -1,0 +1,7 @@
+c:\users\hazem ali\documents\visual studio 2015\Projects\VirtualAssistant\VirtualAssistant\bin\Release\VirtualAssistant.exe
+c:\users\hazem ali\documents\visual studio 2015\Projects\VirtualAssistant\VirtualAssistant\bin\Release\VirtualAssistant.pdb
+c:\users\hazem ali\documents\visual studio 2015\Projects\VirtualAssistant\VirtualAssistant\obj\Release\VirtualAssistant.frmMain.resources
+c:\users\hazem ali\documents\visual studio 2015\Projects\VirtualAssistant\VirtualAssistant\obj\Release\VirtualAssistant.Properties.Resources.resources
+c:\users\hazem ali\documents\visual studio 2015\Projects\VirtualAssistant\VirtualAssistant\obj\Release\VirtualAssistant.csproj.GenerateResource.Cache
+c:\users\hazem ali\documents\visual studio 2015\Projects\VirtualAssistant\VirtualAssistant\obj\Release\VirtualAssistant.exe
+c:\users\hazem ali\documents\visual studio 2015\Projects\VirtualAssistant\VirtualAssistant\obj\Release\VirtualAssistant.pdb
